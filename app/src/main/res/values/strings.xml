@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">BaseProject</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="urls">
+        <item>http://www.jianshu.com/p/8d8ac27f41eb</item>
+        <item>http://www.jianshu.com/p/3fe2acac0ddb</item>
+        <item>http://www.jianshu.com/p/fa1b34f7c570</item>
+        <item>http://www.jianshu.com/p/cb5b012d1d85</item>
+        <item>http://www.jianshu.com/p/54ab0e833273</item>
+        <item>http://www.jianshu.com/p/4d76b2bc8784</item>
+        <item>http://www.jianshu.com/p/ac27d4f41608</item>
+        <item>http://www.jianshu.com/p/b83ea5e32ee1</item>
+        <item>http://www.jianshu.com/p/cef7b2808335</item>
+    </string-array>
+
+
+    <string name="Done">Done</string>
+    <string name="Customized">Customized</string>
+    <string name="Decorator">Decorator</string>
+    <string name="RTL">RTL</string>
+    <string name="Dialog">Dialog</string>
+    <string name="DisplayOnly">DisplayOnly</string>
+    <string name="Range">Range</string>
+    <string name="Multi">Multi</string>
+    <string name="Single">Single</string>
+
+
+    <string name="ipsum_en_1914_1">On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue.</string>
+    <string name="ipsum_en_1914_2"> In a free hour, when our power of choice is untrammelled and when nothing prevents our being able to do what we like best, every pleasure is to be welcomed and every pain avoided. But in certain circumstances and owing to the claims of duty or the obligations of business it will frequently occur that pleasures have to be repudiated and annoyances accepted. The wise man therefore always holds in these matters to this principle of selection: he rejects pleasures to secure other greater pleasures, or else he endures pains to avoid worse pains.</string>
+    <string name="ipsum_1">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</string>
+    <string name="ipsum_2">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+    <string name="starred">Starred:</string>
+    <string name="menu_favorite">Favorite</string>
+    <string name="toolbar_favorite_snack">"Toolbar favorite clicked: "</string>
+
+    <string-array name="animate">
+        <item>TranslationX</item>
+        <item>TranslationX2</item>
+        <item>EatAnimate</item>
+    </string-array>
+
+    <string name="picker_title">测试标题</string>
+
+    <string-array name="red_wine">
+        <item>#ff670729</item>
+        <item>#ff7a0c2d</item>
+        <item>#ff96092d</item>
+        <item>#ffa10a37</item>
+        <item>#ffbf013b</item>
+    </string-array>
+
+    <string-array name="polluted_waves">
+        <item>#394948</item>
+        <item>#5a7874</item>
+        <item>#499092</item>
+        <item>#43abae</item>
+        <item>#6ecfd2</item>
+    </string-array>
+
+    <string-array name="medical_express">
+        <item>#a3a3a3</item>
+        <item>#bbbbbb</item>
+        <item>#cccccc</item>
+        <item>#dddddd</item>
+        <item>#eeeeee</item>
+    </string-array>
+
+    <string-array name="vertical_ntb">
+        <item>#df5a55</item>
+        <item>#f9bb72</item>
+        <item>#76afcf</item>
+        <item>#dd6495</item>
+        <item>#72d3b4</item>
+        <item>#563d91</item>
+        <item>#56342e</item>
+        <item>#8c9f58</item>
+    </string-array>
+
+    <!-- DiscreteSeekBar -->
+    <string name="lorem_ipsum">Bacon ipsum dolor amet chuck alcatra tenderloin brisket filet mignon. Cupim capicola ground round sirloin. Meatball prosciutto pork bresaola biltong, shankle cow drumstick picanha short loin beef ribs pastrami cupim tail. Shank pastrami turkey cow swine tail ham hamburger pork loin pork belly tri-tip cupim.</string>
+    <string name="lorem_ipsum_2">Brisket pig filet mignon porchetta short ribs, ball tip t-bone meatball alcatra prosciutto. Pork loin pastrami bacon, kevin meatloaf landjaeger ball tip andouille short ribs kielbasa cupim rump. Shoulder alcatra pork t-bone, sausage bacon filet mignon. Chuck pastrami tongue chicken brisket pork ball tip kevin tail frankfurter meatball prosciutto bacon. Venison short loin fatback pig picanha cow kevin tenderloin. Pork cupim leberkas, andouille frankfurter tenderloin meatloaf alcatra biltong.\nMeatloaf tenderloin ground round corned beef shoulder prosciutto biltong tail alcatra landjaeger frankfurter spare ribs. Rump swine capicola, shankle salami chuck sirloin sausage. Tenderloin pig tri-tip brisket chicken, ham ribeye short ribs shankle. T-bone turkey short loin jerky, porchetta turducken tail sausage biltong pork pork belly. Strip steak brisket pork loin salami, tail alcatra turkey kevin prosciutto jerky cupim ground round. Pork belly fatback bresaola porchetta andouille beef alcatra turkey picanha pork chop t-bone swine short loin ham. Short ribs pork swine, shoulder ham frankfurter tri-tip.\nDrumstick swine sausage tri-tip pork bacon. Kevin meatloaf andouille pork, shoulder short ribs capicola. Salami beef shank, shankle spare ribs cow doner leberkas tongue meatball hamburger shoulder. Pork chop ribeye prosciutto ground round brisket. Sirloin pig brisket short ribs corned beef, venison shoulder landjaeger cupim alcatra. Shankle andouille prosciutto, flank turkey venison kielbasa pork chop pork loin. Bresaola tri-tip turducken filet mignon, pork pig cow capicola brisket short ribs doner.</string>
+</resources>
