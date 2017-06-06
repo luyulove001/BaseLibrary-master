@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\yalantis_phoenix_sky.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\baselibrary\\build\\intermediates\\bundles\\default\\res\\mipmap-xxhdpi-v4\\yalantis_phoenix_sky.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\yalantis_phoenix_sun.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\baselibrary\\build\\intermediates\\bundles\\default\\res\\mipmap-xxhdpi-v4\\yalantis_phoenix_sun.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\bg_jellybean.jpg",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\mipmap-xxhdpi\\bg_jellybean.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\twitter_pull_arrow.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\baselibrary\\build\\intermediates\\bundles\\default\\res\\mipmap-xxhdpi-v4\\twitter_pull_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\yalantis_phoenix_buildings.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\baselibrary\\build\\intermediates\\bundles\\default\\res\\mipmap-xxhdpi-v4\\yalantis_phoenix_buildings.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\nomore.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\baselibrary\\build\\intermediates\\bundles\\default\\res\\mipmap-xxhdpi-v4\\nomore.png"
+    }
+]

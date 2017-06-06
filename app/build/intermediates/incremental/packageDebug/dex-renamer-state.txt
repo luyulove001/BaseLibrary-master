@@ -1,0 +1,7 @@
+#Thu May 04 11:09:33 CST 2017
+base.0=C\:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_c7b9aaa2d57d3ae97a5a28343cdff94f13bebbf8
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_e4c0ddeb12549b72106ea56485939cd50c3b103c\\classes.dex
+base.1=C\:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_e4c0ddeb12549b72106ea56485939cd50c3b103c
+file.0=C\:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_c7b9aaa2d57d3ae97a5a28343cdff94f13bebbf8\\classes.dex

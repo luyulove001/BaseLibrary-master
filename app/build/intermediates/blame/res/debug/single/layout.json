@@ -1,0 +1,1082 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\contextmenu_fragment_menu.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\baselibrary\\build\\intermediates\\bundles\\default\\res\\layout\\contextmenu_fragment_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_gray_line.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\include_gray_line.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_twitter_other_imageview.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\fragment_twitter_other_imageview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_circualreveal.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\activity_circualreveal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ac05f22e3f34466a8eade10aab5dd9b2fd357fc0\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_twitter_grid_view.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\fragment_twitter_grid_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_customscrollview.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\activity_customscrollview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\29e7dd3497de14320f8257c008d5a393b0b5dc3c\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_dialog_config.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\layout_dialog_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_discrete_seekbar.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\activity_discrete_seekbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_sweetsheet_vertical_rv.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\baselibrary\\build\\intermediates\\bundles\\default\\res\\layout\\item_sweetsheet_vertical_rv.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\29e7dd3497de14320f8257c008d5a393b0b5dc3c\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_layout.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\custom_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_navigation.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\activity_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ts_dialog_customized.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\ts_dialog_customized.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ac05f22e3f34466a8eade10aab5dd9b2fd357fc0\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_animation.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\activity_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_contentmenu.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\activity_contentmenu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_horizontal_ntb.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\activity_horizontal_ntb.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_dynamicheightimageview.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\activity_dynamicheightimageview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_nav_yalantis.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\fragment_nav_yalantis.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_fullscreen.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\baselibrary\\build\\intermediates\\bundles\\default\\res\\layout\\activity_fullscreen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_timessquare.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\activity_timessquare.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_recycleradapter.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\activity_recycleradapter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_percentlayout.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\activity_percentlayout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ac05f22e3f34466a8eade10aab5dd9b2fd357fc0\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_materialfavorite.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\activity_materialfavorite.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\29e7dd3497de14320f8257c008d5a393b0b5dc3c\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\29e7dd3497de14320f8257c008d5a393b0b5dc3c\\output\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_richtext.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\activity_richtext.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_popup_list.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\item_popup_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\timesquare_month.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\baselibrary\\build\\intermediates\\bundles\\default\\res\\layout\\timesquare_month.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\picker_fragment_camera_cwac.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\baselibrary\\build\\intermediates\\bundles\\default\\res\\layout\\picker_fragment_camera_cwac.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ac05f22e3f34466a8eade10aab5dd9b2fd357fc0\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\widget_customnumpick.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\baselibrary\\build\\intermediates\\bundles\\default\\res\\layout\\widget_customnumpick.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_post_fill_style.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\item_post_fill_style.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_nav_twitter.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\fragment_nav_twitter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_twitter_scroll_view.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\fragment_twitter_scroll_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\personal_head_view.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\personal_head_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_marquee_recycler.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\activity_marquee_recycler.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_vertical_ntb.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\activity_vertical_ntb.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_sweetsheet_horizon_rv.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\baselibrary\\build\\intermediates\\bundles\\default\\res\\layout\\item_sweetsheet_horizon_rv.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_flowlayout.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\activity_flowlayout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\29e7dd3497de14320f8257c008d5a393b0b5dc3c\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\29e7dd3497de14320f8257c008d5a393b0b5dc3c\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\marquee_layout_simple_text.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\marquee_layout_simple_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_select_date.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\baselibrary\\build\\intermediates\\bundles\\default\\res\\layout\\view_select_date.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_google_header.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\baselibrary\\build\\intermediates\\bundles\\default\\res\\layout\\layout_google_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_htextview.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\activity_htextview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\29e7dd3497de14320f8257c008d5a393b0b5dc3c\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_keyboardwatcher.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\activity_keyboardwatcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\slide_date_time_picker.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\baselibrary\\build\\intermediates\\bundles\\default\\res\\layout\\slide_date_time_picker.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_overscroll.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\activity_overscroll.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_xbus_top.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\fragment_xbus_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popup_comment.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\popup_comment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_header_grid.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\item_header_grid.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popup_slide_from_bottom.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\popup_slide_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_coolmenu2.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\fragment_coolmenu2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_post_grid_style.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\item_post_grid_style.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_picker.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\item_picker.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sweetsheet_layout_vp_sweet.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\baselibrary\\build\\intermediates\\bundles\\default\\res\\layout\\sweetsheet_layout_vp_sweet.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_google_footer.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\baselibrary\\build\\intermediates\\bundles\\default\\res\\layout\\layout_google_footer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sweetsheet_layout_grid_menu.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\baselibrary\\build\\intermediates\\bundles\\default\\res\\layout\\sweetsheet_layout_grid_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_expandablelayout.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\activity_expandablelayout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_google_style.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\fragment_google_style.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_autofit.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\activity_autofit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\29e7dd3497de14320f8257c008d5a393b0b5dc3c\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popup_menu.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\popup_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_expandablepanel.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\activity_expandablepanel.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_main.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_spotsdialog.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\activity_spotsdialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_nav_java_code.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\fragment_nav_java_code.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\widget_appmsg.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\baselibrary\\build\\intermediates\\bundles\\default\\res\\layout\\widget_appmsg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_xbus_bottom.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\fragment_xbus_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_circularprogress.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\activity_circularprogress.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sweetsheet_layout_rv_sweet.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\baselibrary\\build\\intermediates\\bundles\\default\\res\\layout\\sweetsheet_layout_rv_sweet.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_twitter_other_linearlayout.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\fragment_twitter_other_linearlayout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_simple.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\activity_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sliderlayout_render_type_text.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\baselibrary\\build\\intermediates\\bundles\\default\\res\\layout\\sliderlayout_render_type_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\widget_loading_dialog.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\baselibrary\\build\\intermediates\\bundles\\default\\res\\layout\\widget_loading_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_coolmenu4.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\fragment_coolmenu4.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_acclerationprogress.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\fragment_acclerationprogress.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_swipe.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\item_swipe.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_recycleranimator.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\activity_recycleranimator.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wtextview.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\activity_wtextview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ac05f22e3f34466a8eade10aab5dd9b2fd357fc0\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_twitter_recycler.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\fragment_twitter_recycler.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dmax_spots_dialog.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\baselibrary\\build\\intermediates\\bundles\\default\\res\\layout\\dmax_spots_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\slider_layout.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\baselibrary\\build\\intermediates\\bundles\\default\\res\\layout\\slider_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\29e7dd3497de14320f8257c008d5a393b0b5dc3c\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\picker_activity_main_pp.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\baselibrary\\build\\intermediates\\bundles\\default\\res\\layout\\picker_activity_main_pp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_animatecheckbox.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\activity_animatecheckbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_psdloadingview.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\activity_psdloadingview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\29e7dd3497de14320f8257c008d5a393b0b5dc3c\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sdtp_fragment_date.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\baselibrary\\build\\intermediates\\bundles\\default\\res\\layout\\sdtp_fragment_date.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view5.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\view5.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_google_hook_footer.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\baselibrary\\build\\intermediates\\bundles\\default\\res\\layout\\layout_google_hook_footer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sliderlayout_indicator_layout.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\baselibrary\\build\\intermediates\\bundles\\default\\res\\layout\\sliderlayout_indicator_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_toolbar.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\layout_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\29e7dd3497de14320f8257c008d5a393b0b5dc3c\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_softkeyboardlistenerlayout.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\activity_softkeyboardlistenerlayout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_circualreveal1.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\activity_circualreveal1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\29e7dd3497de14320f8257c008d5a393b0b5dc3c\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_base_nav_pager.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\fragment_base_nav_pager.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popup_normal.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\popup_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_yalantis.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\item_yalantis.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_magicprogress.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\activity_magicprogress.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_google_style_custom.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\fragment_google_style_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_rippleview.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\activity_rippleview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_nav_jd.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\fragment_nav_jd.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_test.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\item_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ninegrid.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\activity_ninegrid.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popup_list.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\popup_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_smallbang.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\activity_smallbang.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sweetalertdialog.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\activity_sweetalertdialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_twitter_other_textview.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\fragment_twitter_other_textview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_twitter_other_relativelayout.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\fragment_twitter_other_relativelayout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ac05f22e3f34466a8eade10aab5dd9b2fd357fc0\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\personal_zoom_view.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\personal_zoom_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_coolmenu3.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\fragment_coolmenu3.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\29e7dd3497de14320f8257c008d5a393b0b5dc3c\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_xbus.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\activity_xbus.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_samples_ntb.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\activity_samples_ntb.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tedpicker.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\activity_tedpicker.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sdtp_custom_tab.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\baselibrary\\build\\intermediates\\bundles\\default\\res\\layout\\sdtp_custom_tab.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_content.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\view_content.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\likeview.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\baselibrary\\build\\intermediates\\bundles\\default\\res\\layout\\likeview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_countertext.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\activity_countertext.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_title.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\baselibrary\\build\\intermediates\\bundles\\default\\res\\layout\\layout_title.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_viewpager.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\item_viewpager.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sdtp_fragment_time.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\baselibrary\\build\\intermediates\\bundles\\default\\res\\layout\\sdtp_fragment_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_gesture.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\activity_gesture.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_marque.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\baselibrary\\build\\intermediates\\bundles\\default\\res\\layout\\item_marque.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\29e7dd3497de14320f8257c008d5a393b0b5dc3c\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_overscrollview.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\activity_overscrollview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\toolbar.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\baselibrary\\build\\intermediates\\bundles\\default\\res\\layout\\toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_popup.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\activity_popup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_androidanimations.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\item_androidanimations.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ts_dialog.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\ts_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_slidedatetimepicker.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\activity_slidedatetimepicker.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\picker_fragment_gallery.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\baselibrary\\build\\intermediates\\bundles\\default\\res\\layout\\picker_fragment_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_circleimageview.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\activity_circleimageview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_squarelayout.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\activity_squarelayout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\timesquare_week.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\baselibrary\\build\\intermediates\\bundles\\default\\res\\layout\\timesquare_week.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sweetsheet_layout_custom_sweet.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\baselibrary\\build\\intermediates\\bundles\\default\\res\\layout\\sweetsheet_layout_custom_sweet.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\widget_pulltonext_head_foot.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\baselibrary\\build\\intermediates\\bundles\\default\\res\\layout\\widget_pulltonext_head_foot.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_hero_grid.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\item_hero_grid.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_recycler.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\activity_recycler.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\widget_icontext.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\baselibrary\\build\\intermediates\\bundles\\default\\res\\layout\\widget_icontext.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_roundedimageview.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\activity_roundedimageview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_recycleranim.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\activity_recycleranim.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_collswitch.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\activity_collswitch.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_twitter_header.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\baselibrary\\build\\intermediates\\bundles\\default\\res\\layout\\layout_twitter_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sliderlayout_render_type_default.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\baselibrary\\build\\intermediates\\bundles\\default\\res\\layout\\sliderlayout_render_type_default.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_likebutton.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\activity_likebutton.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_recyclerview.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\activity_recyclerview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_animatecheckbox.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\item_animatecheckbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\29e7dd3497de14320f8257c008d5a393b0b5dc3c\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\personal_content_view.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\personal_content_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_numberprogressbar.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\activity_numberprogressbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_jcvideoplayer.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\activity_jcvideoplayer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_radio.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\baselibrary\\build\\intermediates\\bundles\\default\\res\\layout\\dialog_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_swipyrefreshlayout.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\activity_swipyrefreshlayout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pullzoomview.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\activity_pullzoomview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\29e7dd3497de14320f8257c008d5a393b0b5dc3c\\output\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_androidanimations.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\activity_androidanimations.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\29e7dd3497de14320f8257c008d5a393b0b5dc3c\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\29e7dd3497de14320f8257c008d5a393b0b5dc3c\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\29e7dd3497de14320f8257c008d5a393b0b5dc3c\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ac05f22e3f34466a8eade10aab5dd9b2fd357fc0\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\card_item.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\card_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\29e7dd3497de14320f8257c008d5a393b0b5dc3c\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\29e7dd3497de14320f8257c008d5a393b0b5dc3c\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_list_drop_down.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\baselibrary\\build\\intermediates\\bundles\\default\\res\\layout\\item_list_drop_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_navigation_header.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\layout_navigation_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\29e7dd3497de14320f8257c008d5a393b0b5dc3c\\output\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_expandablelayout.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\baselibrary\\build\\intermediates\\bundles\\default\\res\\layout\\view_expandablelayout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_constellation_layout.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\baselibrary\\build\\intermediates\\bundles\\default\\res\\layout\\item_constellation_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view4.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\view4.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sweetsheet.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\sweetsheet.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_header.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\view_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_classic_footer.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\baselibrary\\build\\intermediates\\bundles\\default\\res\\layout\\layout_classic_footer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sample_header.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\baselibrary\\build\\intermediates\\bundles\\default\\res\\layout\\sample_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_viewpager.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\layout_viewpager.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\29e7dd3497de14320f8257c008d5a393b0b5dc3c\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_custem_swipe.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\baselibrary\\build\\intermediates\\bundles\\default\\res\\layout\\layout_custem_swipe.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_listview_anim.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\item_listview_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_custom_header.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\baselibrary\\build\\intermediates\\bundles\\default\\res\\layout\\layout_custom_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_scrollernumberpicker.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\activity_scrollernumberpicker.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_circualreveal2.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\activity_circualreveal2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_mywebview.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\activity_mywebview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\29e7dd3497de14320f8257c008d5a393b0b5dc3c\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_slider.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\activity_slider.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\29e7dd3497de14320f8257c008d5a393b0b5dc3c\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popup_input.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\popup_input.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\29e7dd3497de14320f8257c008d5a393b0b5dc3c\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_google_hook_header.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\baselibrary\\build\\intermediates\\bundles\\default\\res\\layout\\layout_google_hook_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_twitter_listview.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\fragment_twitter_listview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_jd_header.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\baselibrary\\build\\intermediates\\bundles\\default\\res\\layout\\layout_jd_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\29e7dd3497de14320f8257c008d5a393b0b5dc3c\\output\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sweetsheet.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\activity_sweetsheet.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_ptnscrollview.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\fragment_ptnscrollview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\picker_tab_view_text.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\baselibrary\\build\\intermediates\\bundles\\default\\res\\layout\\picker_tab_view_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_glass.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\activity_glass.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_switchanimation.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\item_switchanimation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\29e7dd3497de14320f8257c008d5a393b0b5dc3c\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_twitter_web_view.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\fragment_twitter_web_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_jcvideoplayer.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\item_jcvideoplayer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popup_dialog.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\popup_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_recycleranim.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\item_recycleranim.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ac05f22e3f34466a8eade10aab5dd9b2fd357fc0\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view1.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\view1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\29e7dd3497de14320f8257c008d5a393b0b5dc3c\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view3.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\view3.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_spinner.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\baselibrary\\build\\intermediates\\bundles\\default\\res\\layout\\item_spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_refreshlayout.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\activity_refreshlayout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_reveal.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\activity_reveal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\29e7dd3497de14320f8257c008d5a393b0b5dc3c\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_swipetoload.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\activity_swipetoload.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_loadtoast.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\activity_loadtoast.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_coolmenu1.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\fragment_coolmenu1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\flowlayout_text.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\flowlayout_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_nicespinner.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\activity_nicespinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_ptnwebview.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\fragment_ptnwebview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_test.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\activity_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\29e7dd3497de14320f8257c008d5a393b0b5dc3c\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_yalantis_header.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\layout_yalantis_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\29e7dd3497de14320f8257c008d5a393b0b5dc3c\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pulltonext.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\activity_pulltonext.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_horizontal_top_ntb.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\activity_horizontal_top_ntb.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_twitter_other_framelayout.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\fragment_twitter_other_framelayout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\marquee_layout_simple_image.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\marquee_layout_simple_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\video_control_view.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\baselibrary\\build\\intermediates\\bundles\\default\\res\\layout\\video_control_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\swipelayout_sample.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\swipelayout_sample.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\29e7dd3497de14320f8257c008d5a393b0b5dc3c\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_splashprogress.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\fragment_splashprogress.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ac05f22e3f34466a8eade10aab5dd9b2fd357fc0\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_switchanimation.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\activity_switchanimation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wave_loading.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\activity_wave_loading.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\vp_item.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\vp_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_marquee_layout.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\activity_marquee_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_timesince.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\activity_timesince.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\29e7dd3497de14320f8257c008d5a393b0b5dc3c\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_ptnother.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\fragment_ptnother.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\29e7dd3497de14320f8257c008d5a393b0b5dc3c\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_progress.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\activity_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sweetalert_dialog.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\baselibrary\\build\\intermediates\\bundles\\default\\res\\layout\\sweetalert_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pulltonextlayout.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\activity_pulltonextlayout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_empty.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\baselibrary\\build\\intermediates\\bundles\\default\\res\\layout\\activity_empty.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_dropdownmenu.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\activity_dropdownmenu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ac05f22e3f34466a8eade10aab5dd9b2fd357fc0\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_hero.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\item_hero.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_default_drop_down.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\baselibrary\\build\\intermediates\\bundles\\default\\res\\layout\\item_default_drop_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_swipelayout.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\activity_swipelayout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ac05f22e3f34466a8eade10aab5dd9b2fd357fc0\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_expandable.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\item_expandable.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_refresh.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\fragment_refresh.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_rippleview.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\item_rippleview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ac05f22e3f34466a8eade10aab5dd9b2fd357fc0\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_header.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\item_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\29e7dd3497de14320f8257c008d5a393b0b5dc3c\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_coolmenu.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\activity_coolmenu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\picker_grid_item_gallery_thumbnail.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\baselibrary\\build\\intermediates\\bundles\\default\\res\\layout\\picker_grid_item_gallery_thumbnail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view2.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\view2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_customnumberpick.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\layout\\activity_customnumberpick.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\29e7dd3497de14320f8257c008d5a393b0b5dc3c\\output\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\picker_list_item_selected_thumbnail.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\baselibrary\\build\\intermediates\\bundles\\default\\res\\layout\\picker_list_item_selected_thumbnail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sample_footer.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\baselibrary\\build\\intermediates\\bundles\\default\\res\\layout\\sample_footer.xml"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_drawer.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\menu\\menu_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_confirm.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\baselibrary\\build\\intermediates\\bundles\\default\\res\\menu\\menu_confirm.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_sweet.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\menu\\menu_sweet.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_circularreveal.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\menu\\menu_circularreveal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_config.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\menu\\menu_config.xml"
+    }
+]

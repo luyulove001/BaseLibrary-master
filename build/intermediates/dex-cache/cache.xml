@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\project\BaseLibrary-master\BaseLibrary-master\baselibrary\build\intermediates\bundles\default\libs\xstream-1.4.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d082e12b8e94c834dbf5e686b751d6c377d1ac53">
+        <dex dex="C:\Users\Administrator\Desktop\project\BaseLibrary-master\BaseLibrary-master\app\build\intermediates\transforms\dex\debug\folders\1000\8\xstream-1.4.7_74d55c51532f59edfe19f5fa0ab6b92660e27aa7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\6c7f441d2ac800afd0577424b8bca2eaddb6415d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a6326b4788f2ce2dcc90a999f54f66fe8ea85e58">
+        <dex dex="C:\Users\Administrator\Desktop\project\BaseLibrary-master\BaseLibrary-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d46a55ab1588b91c3ed41a227c44eb9c9eab3d74\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\6f880626d11e7f07eed75e1eab98b81405d8149a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\Administrator\Desktop\project\BaseLibrary-master\BaseLibrary-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cb3c7e7d1b62a0c3b59364009d6f96d15446c8bf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\project\BaseLibrary-master\BaseLibrary-master\baselibrary\build\intermediates\bundles\default\libs\dom4j-1.6.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f9405e6e2fe3ed15472cbd313da8ac7e2b78248c">
+        <dex dex="C:\Users\Administrator\Desktop\project\BaseLibrary-master\BaseLibrary-master\app\build\intermediates\transforms\dex\debug\folders\1000\8\dom4j-1.6.1_8bcec8ebf1e4f61a04e25e2f509070626b6ed427\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\ac05f22e3f34466a8eade10aab5dd9b2fd357fc0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\Administrator\Desktop\project\BaseLibrary-master\BaseLibrary-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bfdbc57a11d1eab82094894134b289b323bcddcf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\project\BaseLibrary-master\BaseLibrary-master\baselibrary\build\intermediates\bundles\default\libs\nineoldandroids-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f086e018e187da53a1432c188023c86d1fa3ff73">
+        <dex dex="C:\Users\Administrator\Desktop\project\BaseLibrary-master\BaseLibrary-master\app\build\intermediates\transforms\dex\debug\folders\1000\8\nineoldandroids-2.4.0_4b57402d3edd1d621a5c1b34ebbd43bbf98b64b4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\project\BaseLibrary-master\BaseLibrary-master\baselibrary\build\intermediates\bundles\default\libs\smoothswitchlibrary.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e52c2727afa34bf440d585b2d6276209a80aa51b">
+        <dex dex="C:\Users\Administrator\Desktop\project\BaseLibrary-master\BaseLibrary-master\app\build\intermediates\transforms\dex\debug\folders\1000\8\smoothswitchlibrary_76abaccafede56c77990cd141e8ed5d760377109\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\d39870c8e76d70c3ba5bf52897eb59a76e1a0e3a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\Administrator\Desktop\project\BaseLibrary-master\BaseLibrary-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e629773a2659326328f495d5a71477599e115570\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\project\BaseLibrary-master\BaseLibrary-master\baselibrary\build\intermediates\bundles\default\libs\stickylistheaders_lib.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="19b7024a8f79c0cc19fea350c28e0c69e2eaa051">
+        <dex dex="C:\Users\Administrator\Desktop\project\BaseLibrary-master\BaseLibrary-master\app\build\intermediates\transforms\dex\debug\folders\1000\8\stickylistheaders_lib_593738e7138d5cfb350197eef7c52c53ccc507d2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android_sdk_windows\build-tools\25.0.0\renderscript\lib\renderscript-v8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="05668b8cd6c7b07f152b6a5b4c6cff620817ba0f">
+        <dex dex="C:\Users\Administrator\Desktop\project\BaseLibrary-master\BaseLibrary-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\renderscript-v8_745afe758fe01298a69f0e0bcc02cec7ba04e57a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\project\BaseLibrary-master\BaseLibrary-master\baselibrary\build\intermediates\bundles\default\libs\butterknife-7.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="045fb2cfdb71150d2ee00926e5f10f13efe81186">
+        <dex dex="C:\Users\Administrator\Desktop\project\BaseLibrary-master\BaseLibrary-master\app\build\intermediates\transforms\dex\debug\folders\1000\8\butterknife-7.0.1_24254cc395c3277ae7699beb355822d340ebc15e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\TBISAndroidEnvironment\android-studio\gradle\gradle-2.14\caches\modules-2\files-2.1\com.google.code.gson\gson\2.5\686c608d1805b6d4d425ec4459e88164ffc85870\gson-2.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="686c608d1805b6d4d425ec4459e88164ffc85870">
+        <dex dex="C:\Users\Administrator\Desktop\project\BaseLibrary-master\BaseLibrary-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.5_09fcb1e2e5d6c5d233c950e1d741cddb7273a473\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\project\BaseLibrary-master\BaseLibrary-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dbc1842760b92296ad32016475b04c1d760cbca6">
+        <dex dex="C:\Users\Administrator\Desktop\project\BaseLibrary-master\BaseLibrary-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_e4c0ddeb12549b72106ea56485939cd50c3b103c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\62de4b329f528a3b07937c372eb7c6ceb4af8e05\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="C:\Users\Administrator\Desktop\project\BaseLibrary-master\BaseLibrary-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c48ed7dc2facb030aa67697c0bca122bd03c505c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\project\BaseLibrary-master\BaseLibrary-master\baselibrary\build\intermediates\bundles\default\libs\slidingmenu.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c6a80a79c163a9f33b29c65e829c6e1530ea7f39">
+        <dex dex="C:\Users\Administrator\Desktop\project\BaseLibrary-master\BaseLibrary-master\app\build\intermediates\transforms\dex\debug\folders\1000\8\slidingmenu_3c3134b9112ce964c24e4133fb1522f012f69995\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\29e7dd3497de14320f8257c008d5a393b0b5dc3c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\Administrator\Desktop\project\BaseLibrary-master\BaseLibrary-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_67965ddcdabaca35e8c905000931e5ea7ee40342\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\project\BaseLibrary-master\BaseLibrary-master\baselibrary\build\intermediates\bundles\default\libs\universal-image-loader-1.9.4-with-sources.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2ef539b6c1a74f529257e59434795e782a5ae40a">
+        <dex dex="C:\Users\Administrator\Desktop\project\BaseLibrary-master\BaseLibrary-master\app\build\intermediates\transforms\dex\debug\folders\1000\8\universal-image-loader-1.9.4-with-sources_2e02e78fb9e8e41373f682ec848c412a69ee7a96\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\6f880626d11e7f07eed75e1eab98b81405d8149a\output\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\Administrator\Desktop\project\BaseLibrary-master\BaseLibrary-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_0b371148205d6d595094348756c19722bc760a11\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\f07d2ccf954513915f7ba07b4600bfada07a0ee2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\Administrator\Desktop\project\BaseLibrary-master\BaseLibrary-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_798330fdba305fff43aa8d06744d62e603a591a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\project\BaseLibrary-master\BaseLibrary-master\baselibrary\build\intermediates\bundles\default\libs\volley.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8ae00ad381431c995b273a462bec2347d8cc3d58">
+        <dex dex="C:\Users\Administrator\Desktop\project\BaseLibrary-master\BaseLibrary-master\app\build\intermediates\transforms\dex\debug\folders\1000\8\volley_60e702f16ed183381aebedfdbb448c238b203b0e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\c7dd8376104f54ea797380821474187d36378aa7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\Administrator\Desktop\project\BaseLibrary-master\BaseLibrary-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9aa171cea6749bf38fcb253266d75cf280ec276a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\project\BaseLibrary-master\BaseLibrary-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\Administrator\Desktop\project\BaseLibrary-master\BaseLibrary-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_c7b9aaa2d57d3ae97a5a28343cdff94f13bebbf8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\6a7560976f1abd44935a3cbb8502d7cb5cc02323\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="91c2541305eec5a688f3a60529d974e48f77d760">
+        <dex dex="C:\Users\Administrator\Desktop\project\BaseLibrary-master\BaseLibrary-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_790ac5fc2093d6a245deb6ea73bd056e60589aa0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\project\BaseLibrary-master\BaseLibrary-master\baselibrary\build\intermediates\bundles\default\libs\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4be4b04501b974e1be142024285f925b7ad9ff88">
+        <dex dex="C:\Users\Administrator\Desktop\project\BaseLibrary-master\BaseLibrary-master\app\build\intermediates\transforms\dex\debug\folders\1000\8\picasso-2.5.2_5e25d1d85d75573a741fb300c7b8626d8671c02f\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,302 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_comment_popup.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\drawable\\bg_comment_popup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\nice_spinner_drawable.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\baselibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\nice_spinner_drawable.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\skin_seek_progress.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\drawable\\skin_seek_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_white_cs.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\drawable\\btn_white_cs.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\29e7dd3497de14320f8257c008d5a393b0b5dc3c\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_comment_show.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\drawable\\ic_comment_show.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\29e7dd3497de14320f8257c008d5a393b0b5dc3c\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\29e7dd3497de14320f8257c008d5a393b0b5dc3c\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\29e7dd3497de14320f8257c008d5a393b0b5dc3c\\output\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chip.jpg",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\drawable\\chip.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_round_rect.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\drawable\\bg_round_rect.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\29e7dd3497de14320f8257c008d5a393b0b5dc3c\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\29e7dd3497de14320f8257c008d5a393b0b5dc3c\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_white.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\drawable\\btn_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_indicator.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\drawable\\selector_indicator.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\29e7dd3497de14320f8257c008d5a393b0b5dc3c\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wheel_bg.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\baselibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\wheel_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\29e7dd3497de14320f8257c008d5a393b0b5dc3c\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\29e7dd3497de14320f8257c008d5a393b0b5dc3c\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_spots_spot.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\drawable\\custom_spots_spot.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_dialog.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\drawable\\bg_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_rectangle.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\drawable\\shape_rectangle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\29e7dd3497de14320f8257c008d5a393b0b5dc3c\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_seventh.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\drawable\\ic_seventh.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_unselected.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\drawable\\bg_unselected.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\29e7dd3497de14320f8257c008d5a393b0b5dc3c\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_round_circle.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\drawable\\bg_round_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\nice_spinner_selector.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\baselibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\nice_spinner_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\29e7dd3497de14320f8257c008d5a393b0b5dc3c\\output\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_number_pick_add.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\baselibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\custom_number_pick_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\29e7dd3497de14320f8257c008d5a393b0b5dc3c\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_selector.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\drawable\\item_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\29e7dd3497de14320f8257c008d5a393b0b5dc3c\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\flowlayout_normal.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\drawable\\flowlayout_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_round.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\drawable\\btn_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\animation_list_refresh_jd.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\baselibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\animation_list_refresh_jd.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\flowlayout_checked.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\drawable\\flowlayout_checked.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\29e7dd3497de14320f8257c008d5a393b0b5dc3c\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ok_bg.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\drawable\\ok_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\calendar_bg_selector.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\baselibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\calendar_bg_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\29e7dd3497de14320f8257c008d5a393b0b5dc3c\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\29e7dd3497de14320f8257c008d5a393b0b5dc3c\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_number_pick_reduce.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\baselibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\custom_number_pick_reduce.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\29e7dd3497de14320f8257c008d5a393b0b5dc3c\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ac05f22e3f34466a8eade10aab5dd9b2fd357fc0\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\29e7dd3497de14320f8257c008d5a393b0b5dc3c\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_default_image.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\drawable\\ic_default_image.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tsbg_circle_today.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\drawable\\tsbg_circle_today.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_first.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\drawable\\ic_first.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\29e7dd3497de14320f8257c008d5a393b0b5dc3c\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_third.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\drawable\\ic_third.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\29e7dd3497de14320f8257c008d5a393b0b5dc3c\\output\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_sixth.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\drawable\\ic_sixth.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_menu_popup.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\drawable\\selector_menu_popup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tsbg_circle_selected.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\drawable\\tsbg_circle_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\29e7dd3497de14320f8257c008d5a393b0b5dc3c\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_eighth.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\drawable\\ic_eighth.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\call_locate_gray.9.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\drawable\\call_locate_gray.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_item_hero.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\drawable\\selector_item_hero.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\29e7dd3497de14320f8257c008d5a393b0b5dc3c\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\flowlayout_bg.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\drawable\\flowlayout_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_fifth.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\drawable\\ic_fifth.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\nice_spinner_arrow.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\baselibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\nice_spinner_arrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_like.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\drawable\\ic_like.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\29e7dd3497de14320f8257c008d5a393b0b5dc3c\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\29e7dd3497de14320f8257c008d5a393b0b5dc3c\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_second.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\drawable\\ic_second.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wheel_scroll_picker_bar.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\baselibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\wheel_scroll_picker_bar.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ts_calendar_bg_selector.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\drawable\\ts_calendar_bg_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_comment.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\drawable\\ic_comment.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ac05f22e3f34466a8eade10aab5dd9b2fd357fc0\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\29e7dd3497de14320f8257c008d5a393b0b5dc3c\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\call_locate_green.9.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\drawable\\call_locate_green.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_fourth.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\drawable\\ic_fourth.png"
+    }
+]

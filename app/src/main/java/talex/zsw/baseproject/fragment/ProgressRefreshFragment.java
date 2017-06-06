@@ -29,6 +29,8 @@ public class ProgressRefreshFragment extends BaseFragment
 	{
 		setContentView(R.layout.fragment_refresh);
 		ButterKnife.bind(this, mView);
+
+
 	}
 
 	@Override protected void initData()

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="lobsterpicker-1.0.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/6c7f441d2ac800afd0577424b8bca2eaddb6415d/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/6c7f441d2ac800afd0577424b8bca2eaddb6415d/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://F:/TBISAndroidEnvironment/android-studio/gradle/gradle-2.14/caches/modules-2/files-2.1/com.larswerkman/lobsterpicker/1.0.1/a40bbb77d54b2ab66b7e0ba6f613b1edd8c53eb2/lobsterpicker-1.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

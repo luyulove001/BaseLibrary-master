@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\bg_viewpager.jpg",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\src\\main\\res\\mipmap-xhdpi\\bg_viewpager.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\qq_refresh_success.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\baselibrary\\build\\intermediates\\bundles\\default\\res\\mipmap-xhdpi-v4\\qq_refresh_success.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\drop_down_selected_icon.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\baselibrary\\build\\intermediates\\bundles\\default\\res\\mipmap-xhdpi-v4\\drop_down_selected_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\drop_down_unselected_icon.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\baselibrary\\build\\intermediates\\bundles\\default\\res\\mipmap-xhdpi-v4\\drop_down_unselected_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\drop_down_checked.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\project\\BaseLibrary-master\\BaseLibrary-master\\baselibrary\\build\\intermediates\\bundles\\default\\res\\mipmap-xhdpi-v4\\drop_down_checked.png"
+    }
+]
